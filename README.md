@@ -1,5 +1,15 @@
 # montyhall
 
+Configure o número de portas (ou não...),
+e descubra se as chances são maiores ao permanecer com a porta escolhida no início, 
+ou ao trocar de porta xD. 
+
+
+
+
+
+
+
 ## Project setup
 ```
 npm install
@@ -13,11 +23,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files
